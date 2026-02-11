@@ -6,8 +6,7 @@ This project allows users to switch between light mode and dark mode, and it rem
 ---
 
 ## Live Demo
-
-
+https://hooriashujaat098.github.io/dark-mode-toggle/
 ---
 
 ## Features
